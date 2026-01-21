@@ -2,7 +2,8 @@
 
 ![Your Headshot](9K7A9370.jpg)
 
-**Location:** [Baltimore, Maryland] | **Email:** [yuvateja9119@gmail.com](mailto:yuvateja9119@gmail.com) | [LinkedIn](https://www.linkedin.com/mullapudiyuvateja) | **GitHub:** [://github.com](https://://github.com/MULLAPUDIYUVATEJA)
+**Location:** [Baltimore, Maryland] | **Email:** [yuvateja9119@gmail.com](mailto:yuvateja9119@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mullapudiyuvateja) | **GitHub:** [github.com/MULLAPUDIYUVATEJA](https://github.com/MULLAPUDIYUVATEJA)
+
 
 ---
 
