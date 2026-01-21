@@ -9,17 +9,17 @@
 
 ## Education
 
-### [University of Maryland, Baltimore County]
-*Master of Professional Studies in [Data Science]* | [Baltimore, Maryland]
-*   **Graduation Date:** [May 2026]
+### University of Maryland, Baltimore County (UMBC)
+*Master of Professional Studies in Data Science* | Baltimore, Maryland
+*   **Graduation Date:** May 2026
 
-### [Vellore Institute of Technology, Bangalore (VIT-Bangalore]
-*Post Graduation Program (PGP) [Data Science]* | [Bangalore, Karnataka, India]
-*   **Graduation Date:** [June 2025]
+### Vellore Institute of Technology, Bangalore (VIT-Bangalore)
+*Post Graduation Program (PGP) Data Science* | Bangalore, Karnataka, India
+*   **Graduation Date:** June 2025
 
-### [Adikavi Nannaya University]
-*Bachelor of Science in [Computer Science]* | [Kakinada, Andhrapradesh, India]
-*   **Graduation Date:** [July 2023]
+### Adikavi Nannaya University
+*Bachelor of Science in Computer Science* | Kakinada, Andhrapradesh, India
+*   **Graduation Date:** July 2023
 
 ---
 
