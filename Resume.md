@@ -1,6 +1,6 @@
 # Yuvateja Mullapudi
 
-![Your Headshot]()
+![Your Headshot](9K7A9370.jpg)
 
 **Location:** [City, State] | **Email:** [your.email@example.com](mailto:your.email@example.com) | **LinkedIn:** [://linkedin.com](https://://linkedin.com) | **GitHub:** [://github.com](https://://github.com)
 
