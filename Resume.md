@@ -2,7 +2,7 @@
 
 ![Your Headshot](9K7A9370.jpg)
 
-**Location:** [City, State] | **Email:** [your.email@example.com](mailto:your.email@example.com) | **LinkedIn:** [://linkedin.com](https://://linkedin.com) | **GitHub:** [://github.com](https://://github.com)
+**Location:** [Baltimore, Maryland] | **Email:** [yuvateja9119@gmail.com](mailto:yuvateja9119@gmail.com) | **LinkedIn:** [://linkedin.com](www.linkedin.com/in/mullapudiyuvateja) | **GitHub:** [://github.com](github.com/MULLAPUDIYUVATEJA)
 
 ---
 
