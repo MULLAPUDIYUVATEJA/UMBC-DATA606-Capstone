@@ -23,18 +23,19 @@
 
 ---
 
-## Experience
+## Professional Experience
 
-### [VIT-Bangalore]
+### VIT-Bangalore
+**[campus ambassador]** | *[Mar 2025] – [May 2025]* | [Bangalore, India]
+**[AI to GLOW: Artificial Intelligence to Generative Limitless Opportunities WorldWide]** 
+* Assisted in organizing and coordinating a large-scale AI-focused hackathon with 1,000+ participants and 150+ teams 
+* Used Python scripts to preprocess participant data and build Power BI dashboards to track registrations and key event metrics
+
+### VIT-Bangalore
 **[Student Researcher - Probability and statistics Course]** | *[Oct 2024] – [Dec 2024]* | [Bangalore, India]
-*   • Collaborated with course faculty on a project to predict graduate admissions using multiple linear regression in Minitab 
-*  • Performed data cleaning, statistical analysis, and regression modeling 
-*  • Evaluated model performance using R² and RMSE, and visualized insights with seaborn
-*   Utilized [mention technologies/tools] to achieve specific outcomes.
-
-### [Previous Company Name]
-**[Previous Job Title]** | *[Start Date] – [End Date]* | [City, State]
-*   Another description of your role and impact.
+*  Collaborated with course faculty on a project to predict graduate admissions using multiple linear regression in Minitab 
+*  Performed data cleaning, statistical analysis, and regression modeling 
+*  Evaluated model performance using R² and RMSE, and visualized insights with seaborn
 
 ---
 
