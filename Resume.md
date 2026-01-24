@@ -25,9 +25,11 @@
 
 ## Experience
 
-### [Company Name]
-**[Your Job Title]** | *[Start Date] – [End Date]* | [City, State]
-*   Detailed description of responsibilities and achievements using bullet points.
+### [VIT-Bangalore]
+**[Student Researcher - Probability and statistics Course]** | *[Oct 2024] – [Dec 2024]* | [Bangalore, India]
+*   • Collaborated with course faculty on a project to predict graduate admissions using multiple linear regression in Minitab 
+*  • Performed data cleaning, statistical analysis, and regression modeling 
+*  • Evaluated model performance using R² and RMSE, and visualized insights with seaborn
 *   Utilized [mention technologies/tools] to achieve specific outcomes.
 
 ### [Previous Company Name]
