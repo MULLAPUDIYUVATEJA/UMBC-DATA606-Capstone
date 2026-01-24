@@ -26,7 +26,7 @@
 ## Professional Experience
 
 ### VIT-Bangalore
-**[campus ambassador]** | *[Mar 2025] – [May 2025]* | [Bangalore, India]
+**[Campus Ambassador]** | *[Mar 2025] – [May 2025]* | [Bangalore, India]
 **[AI to GLOW: Artificial Intelligence to Generative Limitless Opportunities WorldWide]** 
 * Assisted in organizing and coordinating a large-scale AI-focused hackathon with 1,000+ participants and 150+ teams 
 * Used Python scripts to preprocess participant data and build Power BI dashboards to track registrations and key event metrics
@@ -36,6 +36,14 @@
 *  Collaborated with course faculty on a project to predict graduate admissions using multiple linear regression in Minitab 
 *  Performed data cleaning, statistical analysis, and regression modeling 
 *  Evaluated model performance using R² and RMSE, and visualized insights with seaborn
+
+### Soft-Tech Solutions
+**[AWS Cloud Practitioner Intern]** | *[Mar 2023] – [Jul 2023]* |
+*  Hands-on experience with AWS services including EC2,EBS, S3, IAM, RDS, ELB, and SQS, involving management of EC2 instances, EBS volumes, security groups, VPCs, IAM user and polocies
+
+### Smart Internz
+**[Salesforce Administrator Virtual Internship]** | *[Aug 2022] – [Oct 2022]* | [Remote]
+*  Administered Salesforce user profiles, roles, permissions, security tokens, validation rules, and implemented object-level & field level security with customized page layouts, visualforce pages, custom objects, tabs, and components.
 
 ---
 
