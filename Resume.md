@@ -1,6 +1,6 @@
 # Yuvateja Mullapudi
 
-![Your Headshot](9K7A9370.jpg) img src < -200 > width Your Headshot
+![Your Headshot](9K7A9370.jpg) 9K7A9370.jpg src < -200 > width Your Headshot
 
 [![Location](https://img.shields.io/badge/Location-%23E4405F.svg?logo=openstreetmap&logoColor=white)](https://maps.google.com/?cid=308798657002480901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullapudiyuvateja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvateja9119@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MULLAPUDIYUVATEJA)
 
