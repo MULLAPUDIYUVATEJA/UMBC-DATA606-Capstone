@@ -70,7 +70,7 @@
 
 ---
 
-## Leadreship Experience
+## Leadership Experience
 
 ### Aditya Degree College
 **President - Computer Science Club** | *Aug 2022 – Jul 2023* | Kakinada, India
