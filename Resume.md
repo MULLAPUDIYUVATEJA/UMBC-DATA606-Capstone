@@ -22,6 +22,20 @@
 
 ---
 
+## Projects
+
+### Video Captioning | May 2025 - Jun 2025 
+*  Built an end-to-end deep learning pipeline to extract insights from unstructured video data
+*  Applied VGG16 transfer learning for visual feature extraction and LSTM-based sequence modeling for caption generation 
+*  Evaluated captions using BLEU scores and qualitative error analysis to guide model improvements 
+
+### Speech Emotion Analysis** | Jan 2025 - Mar 2025 
+*  Analyzed unstructured audio data using pretrained YAMNet embeddings for multi-class emotion classification 
+*  Designed and evaluated CNN-based architectures, comparing precision and recall across multiple emotion categories 
+*  Interpreted model behavior to support model explainability and informed architecture selection
+
+---
+
 ## Professional Experience
 
 ### VIT-Bangalore
@@ -50,32 +64,16 @@
 
 ### Aditya Degree College
 **President - Computer Science Club** | *Aug 2022 – Jul 2023* | Kakinada, India
-*  Collaborated with diverse teams of students, faculty, and industry partners to plan and deliver technical workshops, Career Expo, and Skill 
-Expo events, fostering an inclusive and collaborative learning environment
+*  Collaborated with diverse teams of students, faculty, and industry partners to plan and deliver technical workshops, Career Expo, and Skill Expo events, fostering an inclusive and collaborative learning environment
 
 ### Aditya Degree College
 **Event Operations Lead - SCI-Land 2k23** | *Nov 2022 – Mar 2023* | Kakinada, India
-*  Collaborated with club leaders to plan and manage logistics for SCI-Land 2023 Project Expo, featuring 40 multidisciplinary teams, 
-ensuring smooth execution and effective stakeholder coordination 
-*  Supported the project evaluation and presentations,  contributing to organized assessmnet workflows and strengthening organizational and analytical skills 
+*  Collaborated with club leaders to plan and manage logistics for SCI-Land 2023 Project Expo, featuring 40 multidisciplinary teams, ensuring smooth execution and effective stakeholder coordination 
+*  Supported the project evaluation and presentations, contributing to organized assessmnet workflows and strengthening organizational and analytical skills 
 
 ### Aditya Degree College
 **Vice President - Chemistry Club** | *Dec 2021 – Jul 2022* | Kakinada, India
 *  Organized academic events, Career Expo, seminars, and science fairs to promote student engagement
-
----
-
-## Projects
-
-*   **Video Captioning** | May 2025 - Jun 2025 
-*   Built an end-to-end deep learning pipeline to extract insights from unstructured video data
-*   Applied VGG16 transfer learning for visual feature extraction and LSTM-based sequence modeling for caption generation 
-*   Evaluated captions using BLEU scores and qualitative error analysis to guide model improvements 
-
-*   **Speech Emotion Analysis** | Jan 2025 - Mar 2025 
-*  Analyzed unstructured audio data using pretrained YAMNet embeddings for multi-class emotion classification 
-*  Designed and evaluated CNN-based architectures, comparing precision and recall across multiple emotion categories 
-*  Interpreted model behavior to support model explainability and informed architecture selection
 
 ---
 
