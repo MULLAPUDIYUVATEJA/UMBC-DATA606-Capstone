@@ -65,18 +65,25 @@ ensuring smooth execution and effective stakeholder coordination
 
 ---
 
+## Projects
+
+*   **Video Captioning** | May 2025 - Jun 2025 
+*   Built an end-to-end deep learning pipeline to extract insights from unstructured video data
+*   Applied VGG16 transfer learning for visual feature extraction and LSTM-based sequence modeling for caption generation 
+*   Evaluated captions using BLEU scores and qualitative error analysis to guide model improvements 
+
+*   **Speech Emotion Analysis** | Jan 2025 - Mar 2025 
+*  Analyzed unstructured audio data using pretrained YAMNet embeddings for multi-class emotion classification 
+*  Designed and evaluated CNN-based architectures, comparing precision and recall across multiple emotion categories 
+*  Interpreted model behavior to support model explainability and informed architecture selection
+
+---
+
 ## Certifications & Skills
 
 *   **Certifications:** [Name of Certification], [Name of Second Certification]
 *   **Programming Languages:** Python, R, SQL
 *   **Tools & Platforms:** Git, GitHub, Docker, AWS
 *   **Interests:** [Your personal interests or hobbies]
-
----
-
-## Projects
-
-*   **[Project Title]:** Brief description of the project. [Link to Project Repository](https://://github.com/project-repo)
-*   **UMBC-DATA606-Capstone:** Description of capstone project.
 
 ---
