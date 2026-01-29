@@ -1,6 +1,6 @@
 # Yuvateja Mullapudi
 
-![Your Headshot](9K7A9370-small.jpg)
+![Your Headshot](9K7A9370.jpg)
 
 [![Location](https://img.shields.io/badge/Location-%23E4405F.svg?logo=openstreetmap&logoColor=white)](https://maps.google.com/?cid=308798657002480901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullapudiyuvateja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvateja9119@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MULLAPUDIYUVATEJA)
 
@@ -36,6 +36,16 @@
 
 ---
 
+## Skills
+
+*  Programming & Data Tools: Python, SQL, R - Basic, Power BI, Tableau, Microsoft Office 
+*  Statistics & Analytics: Hypothesis Testing, Regression, Predictive Modeling, Model Validation, KPI tracking
+*  Machine Learning and Deep Learning: Regression, Classification, CNN, LSTM, Feature Engineering, Model Evaluation
+*  Business Reporting: Operational and Stake-holder Dashboards, Business & Operational Reporting, Data Validation
+*  Collaboartion: Stakeholder Communication, Cross-functional Teamwork
+
+---
+
 ## Professional Experience
 
 ### VIT-Bangalore
@@ -60,7 +70,7 @@
 
 ---
 
-## Professional Experience
+## Leadreship Experience
 
 ### Aditya Degree College
 **President - Computer Science Club** | *Aug 2022 – Jul 2023* | Kakinada, India
@@ -77,11 +87,3 @@
 
 ---
 
-## Certifications & Skills
-
-*   **Certifications:** [Name of Certification], [Name of Second Certification]
-*   **Programming Languages:** Python, R, SQL
-*   **Tools & Platforms:** Git, GitHub, Docker, AWS
-*   **Interests:** [Your personal interests or hobbies]
-
----
