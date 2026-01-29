@@ -40,7 +40,7 @@
 
 ### VIT-Bangalore
 **Campus Ambassador** | *Mar 2025 – May 2025* | Bangalore, India
-#**AI to GLOW: Artificial Intelligence to Generative Limitless Opportunities WorldWide** 
+**AI to GLOW Hackathon: Artificial Intelligence to Generative Limitless Opportunities WorldWide** 
 * Assisted in organizing and coordinating a large-scale AI-focused hackathon with 1,000+ participants and 150+ teams 
 * Used Python scripts to preprocess participant data and build Power BI dashboards to track registrations and key event metrics
 
