@@ -105,15 +105,6 @@ This dataset transforms the problem from task prediction into AI behavior modeli
 
 ---
 
-### 3. Synthetic Reliability Stress Dataset (Optional Extension)
-
-**Source:** Generated in-memory.
-
-**Role:**  
-Simulates challenging scenarios and distribution shifts to evaluate robustness of reliability forecasting.
-
----
-
 ## ⚙️ Methodology
 
 ### Phase 1 — Data Preparation
