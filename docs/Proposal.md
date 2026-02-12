@@ -2,7 +2,7 @@
 
 **Author:** Yuvateja Mullapudi  
 **Course:** Data 606 - Capstone Project  
-**Instructor:** Dr. Chaojie (Jay) Wang  
+**Instructor:** Dr. Chaojie Wang  
 
 
 ---
