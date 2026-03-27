@@ -1,4 +1,4 @@
-# AI ReliabilityGuard: Failure Forecasting and Reliability Modeling for Machine Learning Systems
+# AI Reliability Guard: Failure Forecasting and Reliability Modeling for Machine Learning Systems
 
 ##  Project Overview
 This project focuses on building a **Trustworthy AI framework** that predicts when a machine learning model is likely to make incorrect predictions. The goal is to move beyond traditional accuracy metrics and develop a system that evaluates **prediction reliability**.
