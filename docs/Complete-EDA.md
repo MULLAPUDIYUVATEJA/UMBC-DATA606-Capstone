@@ -98,17 +98,17 @@ A baseline **Random Forest model** was trained to study prediction behavior.
 
 ---
 
-### 🔥 Key Insights
+###  Key Insights
 
-#### ❗ Confidence vs Error
+#### Confidence vs Error
 - Errors occur across **all confidence levels**
 - Even predictions with **>90% confidence can be wrong**
 - **Confidence ≠ Correctness**
 
 ---
 
-#### ⚠️ High-Confidence Errors
-- 🚨 Most critical failure cases  
+#### High-Confidence Errors
+- Most critical failure cases  
 - Model is **highly confident but incorrect**  
 - High risk in:
   - 💳 Finance  
@@ -117,7 +117,7 @@ A baseline **Random Forest model** was trained to study prediction behavior.
 
 ---
 
-#### 📊 Error Rate vs Confidence
+#### Error Rate vs Confidence
 
 > **Confidence ↑ does NOT mean Error ↓**
 
@@ -126,7 +126,7 @@ A baseline **Random Forest model** was trained to study prediction behavior.
 
 ---
 
-#### 📉 Calibration Curve
+#### Calibration Curve
 
 | Ideal Model | Your Model |
 |------------|-----------|
@@ -138,7 +138,7 @@ A baseline **Random Forest model** was trained to study prediction behavior.
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-Not%20Enough-red?style=for-the-badge)
 ![Confidence](https://img.shields.io/badge/Confidence-Unreliable-orange?style=for-the-badge)
@@ -147,64 +147,14 @@ A baseline **Random Forest model** was trained to study prediction behavior.
 
 ---
 
-- ❌ **Accuracy alone is misleading**  
-- ⚠️ **Model confidence is not reliable**  
-- 🔍 **Errors are predictable**  
-- 📉 **Calibration is critical**  
+- **Accuracy alone is misleading**  
+- **Model confidence is not reliable**  
+- **Errors are predictable**  
+- **Calibration is critical**  
 
 ---
 
-## 💡 Core Insight
+## Core Insight
 
-> 🚀 A reliable AI system is not just accurate — it knows when it might fail.
+> A reliable AI system is not just accurate — it knows when it might fail.
 
-
-
-
-
-
-
-
----------
-
-### 🚨 Key Innovation: Failure Dataset
-
-A new dataset was created:
-
-```python
-failure_df = pd.DataFrame({
-    'y_true': y_val,
-    'y_pred': preds,
-    'probability': probs
-})
-
-failure_df['error'] = (failure_df['y_true'] != failure_df['y_pred']).astype(int)
-
-## Failure Analysis
-
-### Key Insights
-
-#### Confidence vs Error
-- Errors occur across all confidence levels  
-- Even **high-confidence predictions can be incorrect**  
-
-#### High-Confidence Errors
-- Critical failure cases where the model is **highly confident but wrong**  
-- These are the most dangerous in real-world applications  
-
-####  Error Rate vs Confidence
-- Error rate does **not consistently decrease** with increasing confidence  
-- Indicates that confidence is not a reliable indicator of correctness  
-
-#### Calibration Curve
-- Model is **not well-calibrated**  
-- Predicted probabilities show **overconfidence** compared to actual outcomes  
-
----
-
-## Key Takeaways
-
-- Accuracy alone is **misleading**  
-- Model confidence is **not reliable**  
-- Model errors are **predictable and learnable**  
-- Proper **calibration is essential** for trustworthy AI systems  
