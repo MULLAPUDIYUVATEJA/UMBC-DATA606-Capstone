@@ -7,7 +7,7 @@
 
 ---
 
-> 📺 **[YouTube Presentation](#)** | 📊 **[PowerPoint Slides (docs/presentation.pptx)](#)** | 💻 **[GitHub Repository](#)**
+> 📺 **[YouTube Presentation](https://youtu.be/WiDVf4F_iqc)** | 📊 **[PowerPoint Slides (docs/presentation.pptx)](#)** | 💻 **[GitHub Repository](#)**
 
 ---
 
