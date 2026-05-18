@@ -7,7 +7,7 @@
 
 ---
 
-> 📺 **[YouTube Presentation](https://youtu.be/WiDVf4F_iqc)** | 📊 **[PowerPoint Slides (docs/presentation.pptx)](https://docs.google.com/presentation/d/1efyiGSgixnHO6-hX4w-kne5aWiVw8a-G/edit?usp=drive_link&ouid=116625515294755863554&rtpof=true&sd=true)** | 💻 **[GitHub Repository](https://github.com/MULLAPUDIYUVATEJA/UMBC-DATA606-Capstone)**
+> 📺 **[YouTube Presentation](https://youtu.be/WiDVf4F_iqc)** | 📊 **[PowerPoint Slides (docs/presentation.pptx)](https://docs.google.com/presentation/d/1efyiGSgixnHO6-hX4w-kne5aWiVw8a-G/edit?usp=drive_link&ouid=116625515294755863554&rtpof=true&sd=true)** | 💻 **[GitHub Repository](https://github.com/MULLAPUDIYUVATEJA/UMBC-DATA606-Capstone)** | 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/mullapudiyuvateja/)**
 
 ---
 
